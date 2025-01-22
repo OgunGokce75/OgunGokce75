@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>Hi 👋, I'm Ogün Gökce</h1>
-<img src="https://i.gifer.com/6sHG.gif" height="150">
+<img src="" height="150">
 </div>
 
 <div align="center">
