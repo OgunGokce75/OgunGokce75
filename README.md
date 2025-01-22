@@ -21,7 +21,7 @@
 <h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
-<img  height="200" src="https://i.gifer.com/XYFP.gif"/>
+<img  height="200" src=""/>
 </div>
 
 <br>
